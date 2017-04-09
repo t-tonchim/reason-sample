@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "./node_modules_/.bin/bsb",
+    "watch": "./node_modules_/.bin/bsb -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
